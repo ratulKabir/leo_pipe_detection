@@ -1,0 +1,13 @@
+name: leo_pipeline
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - opencv
+  - pyyaml
+  - pip
+  - pip:
+    - mcap
+    - mcap-ros2-support
