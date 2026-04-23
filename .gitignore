@@ -1,5 +1,6 @@
 # Output data
 out/
+dataset/
 
 # ROS2 bags and MCAP recordings
 rosbags/
