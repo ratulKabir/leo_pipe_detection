@@ -11,3 +11,5 @@ dependencies:
   - pip:
     - mcap
     - mcap-ros2-support
+    - rfdetr
+    - supervision
